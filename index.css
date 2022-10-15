@@ -1,0 +1,31 @@
+.tabletitle
+{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+    border-color: rgb(33, 37, 41);
+}
+
+.title
+{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.innertable
+{
+    text-align: center;
+    font-size: larger;
+    font-weight: 550;
+}
+.dark
+{
+    background-color:rgb(33, 37, 41);
+    color: #ffffff;
+}
+
+body
+{
+    background-color: rgba(33, 37, 41,0.5);
+}
